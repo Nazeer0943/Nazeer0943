@@ -1,9 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nazir Sani! 👋
 
-<!--
-**Nazeer0943/Nazeer0943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Bachalor of Physics Education | Completed, Umaru Musa Yaradua University. 
+- 💻 IT Support | Over 3 years of experience at New Incentives.
+- 💻 Bachalor of Data Science | In-Progress, MIVA Open University, Abuja. 
+- 🎓 Master's in Information Management, Ahmadu Bello University Zaria
+- 💻 Fellow at Arewa Data Science Academy
+  
+## GitHub Stats
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
