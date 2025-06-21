@@ -3,6 +3,16 @@
 Aspiring Network Engineer | IT Support Specialist | Fellow at Arewa Data Science Academy   
 Fellow at Trust and Safety Africa Academy | Lifelong Learner  
 Based in Katsina State, Nigeria
+<p align="center">
+  <img src="https://github.com/Nazeer0943/Nazeer0943/raw/main/IMG_20250516_173211065.jpg" alt="Nazir giving IT training 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/Nazeer0943/Nazeer0943/raw/main/IMG_20250523_105114614.jpg" alt="Nazir giving IT training 2" width="45%"/>
+</p>
+
+<p align="center">
+  <em>Nazir giving an in-person training on IT-related topics</em>
+</p>
+
+
 
 ---
 
