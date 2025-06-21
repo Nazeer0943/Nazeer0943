@@ -44,40 +44,49 @@ Based in Katsina State, Nigeria
 
 - **Teacher (Physics & Math) – Katsina State Government** *(Mar 2020 – May 2022)*  
   Taught Physics and Mathematics at Government Girls Senior Secondary School, Shargalle.
-## Professional Training and Certification
-- 💼 IT Support @ New Incentives with 3+ years hands-on experience
+## Professional Training
 - 🔐 Fellow, Trust and Safety Africa Academy (Digital Forensics)
 - 🔐 Fellow, Arewa Data Science Academy (Data Science)
-- 🎓 Coursera Cybersecurity Specialization | Python Automation
+- 🎓 Coursera Google Cybersecurity Specialization
+- 🎓 Coursera Google Python Automation Specialization
+- 🎓 Coursera Google IT Support Specialization
   
 ## 📜 Certifications
-- Google IT Support – Coursera (Dec 2024)  
-- Google Cybersecurity – Coursera (June 2025)
+- Google IT [Support](https://www.credly.com/badges/7a3cf510-237b-4ed4-9737-76845ebfe95f/linked_in_profile) – Coursera (Dec 2024)  
+- Google [Cybersecurity](https://www.credly.com/badges/00fa59fc-721f-42a3-b35c-e43eb7d682d3/linked_in_profile) – Coursera (June 2025)
 - Google Python Automation – Coursera *(in view)*  
-- Python Programming – Arewa Data Science Academy (Mar 2025)  
-- Data Science Math Skills – Duke University (Mar 2025)  
-- Data Literacy – 4EU+ Alliance (Mar 2025)  
-- Professional Foundations in IT – ALX Africa (Apr 2025)  
-- Diploma in IT Support – ALISON (Jun 2024)  
-- Pathways to Get into Tech – INCO Academy (Nov 2024)  
-- Artificial Intelligence Career Essentials – ALX Africa (Jul 2024)  
-- Career Essentials in Generative AI – Microsoft (Mar 2024)  
-- Soft Skills Training – Jobberman Nigeria (Oct 2024)  
-- Certificate of Fellowship in Project Management – Dataville Research LLC (Oct 2024)  
-- Certified Virtual Technical Assistant – ALX Africa (Oct 2024)
+- Python [Programming](https://drive.google.com/file/d/15bW_wvIyA0BjjHP0gPK25q90PuvdYMJ2/view?usp=sharing) – Arewa Data Science Academy (Mar 2025)  
+- Data Science Math [Skills](https://www.coursera.org/account/accomplishments/verify/Y7XZFNNASNT4) – Duke University (Mar 2025)  
+- Data [Literacy](https://www.coursera.org/account/accomplishments/records/6DQVJUZKRZPU) – 4EU+ Alliance (Mar 2025)  
+- Professional [Foundations](https://drive.google.com/file/d/1kUbPpMmwwSMBmsFoRcBEo0995MPu59DG/view?usp=drive_link) in IT – ALX Africa (Apr 2025)  
+- Diploma in IT [Support](https://alison.com/certification/check/2y10RLzOkJLdROPYTkkveuK0OOe8xXuApvnq09UOjEc3Fxllm0c9Jue) – ALISON (Jun 2024)  
+- Pathways to Get into [Tech](https://pathways-learn.inco-group.co/en/component/splms/?view=shareawards&tmpl=component&share_id=1849&item=certificate) – INCO Academy (Nov 2024)  
+- Artificial Intelligence Career [Essentials](https://drive.google.com/file/d/1GZ0MotyZ1lZep0r5VxmU1lzpCKORfEpz/view?usp=sharing) – ALX Africa (Jul 2024)  
+- Career Essentials in Generative [AI](2c43d8448d054c8ce2afcd5cfa5115d007f9547d4fad419eec24b351ac1891d1) – Microsoft (Mar 2024)  
+- Soft Skills [Training](https://drive.google.com/file/d/1lhKb3VWQPfkwGVJANLAsrdNawvbQKizx/view?usp=drivesdk) – Jobberman Nigeria (Oct 2024)  
+- Certificate of Fellowship in Project [Management](https://drive.google.com/file/d/1pwhxUy8EK1zkGL3YH2awJwpYs0Fem8fz/view?usp=sharing) – Dataville Research LLC (Oct 2024)  
+- Certified Virtual Technical [Assistant](https://drive.google.com/file/d/1TaIUiuBHEnch_rRKemX-aW9SGSG2B7Zq/view?usp=sharing) – ALX Africa (Oct 2024)
 ## 🚀 Projects
-### 🔐 Cybersecurity Projects
+###  Cybersecurity Projects
 
-- **Cybersecurity Capstone Project** – Coursera  
-  Conducted a simulated security risk assessment for a fictitious company. Identified vulnerabilities in password policies, physical access, and employee behavior; proposed mitigation strategies based on NIST guidelines.
+- - **[Cybersecurity Capstone Project](https://github.com/Nazeer0943/Cybersecurity-capstone-scan)** – Coursera  
+  Simulated a SYN-based port scan on my PC (localhost) to mimic how attackers identify open ports for exploitation. Captured network traffic using Tcpdump, then analyzed it with Wireshark to detect scan patterns. Used Windows Defender Firewall to block port 3306 and compared pre- and post-block traffic behavior. This hands-on project deepened my understanding of real-world SOC analysis and network defense techniques.
+
+- **Safety-by-Design App Concept** – Trust and Safety Africa Academy  
+  Collaborated on a conceptual mobile/web application that embeds Safety-by-Design (SbD) principles such as proactive user protection, transparent policies, and consent-aware features. The app was designed with risk mitigation, privacy, and accessibility in mind. [Project's slides](https://gamma.app/docs/Afrique-Whistle-A-Safety-by-Design-App-for-African-Youth-1mrr21k77uwesty), [Original description of the project.](https://docs.google.com/document/d/1oj8ScgUGKQkCsEC_jEGznINjHXfOkMylBYEd-ie5K2Q/edit?tab=t.0)
+
+- **Online Safety Awareness Campaign** – Trust and Safety Africa Academy  
+  Led a public awareness project to educate technical and non-technical audiences on staying safe online. Covered topics such as cyberbullying, misinformation and disinformation, youth, and social media. View the [presentation slides](https://gamma.app/docs/Safe-and-Smart-Online-Empowering-Teens-for-a-Safer-Digital-Future-v4g2yl1odnd15jd?mode=doc) and watch the [recorded session](https://www.loom.com/share/fd77325b6ec7488bae2e1591e837332d?sid=e91659df-3003-4877-b82e-4f8f0030f587).
 
 
 
-- **Clinic Mapping & Data Capture Project** – Data Science Nigeria  
-  Led a state-level team to gather location-based data from clinics and pharmacies, used for AI model training to improve public health interventions.
 
-- **Data Science Fellowship Project** – Arewa Data Science Academy  
-  Worked on structured datasets to apply Python for data cleaning, visualization, and basic machine learning models during a 3-month fellowship program.
+
+###  Data Science Projects
+
+- - **Data Science Fellowship Project** – Arewa Data Science Academy  
+  Currently participating in a multi-phase fellowship covering Python, Data Science, and Machine Learning. Completed hands-on projects and assignments in the Python phase [(Stage 1)](https://github.com/Nazeer0943/Assignments_Arewa_DS), including data types, control flow, functions, and file handling. See the capstone project for Stage 1's [completion](https://github.com/Nazeer0943/My_Arewa_Data_Science_Capstone_Project). Now actively working on Data Science assignments [(Stage 2)](https://github.com/Nazeer0943/AREWA-DATA-SCIENCE-STAGE-2-ASSIGNEMENTS), applying skills in data cleaning, analysis, and visualization using Pandas, NumPy, and Matplotlib. Machine Learning (Stage 3) will follow.
+
 
 
 
@@ -119,8 +128,7 @@ Based in Katsina State, Nigeria
 
 
 
-- I’m currently learning Python
   
-📬 **Let’s connect! [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nazyr0943/))**
+📬 **Let’s connect! [LinkedIn](https://www.linkedin.com/in/nazyr0943/)**, **[Facebook](https://www.facebook.com/nibrahimaliyu)**
 
 -->
